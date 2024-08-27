@@ -1,0 +1,1 @@
+#A QR code generator is a tool or software that creates QR codes, which are two-dimensional barcodes that can store information such as URLs, text, contact details, or other data. When scanned with a smartphone or QR code reader, the encoded information is quickly accessed, making QR codes a convenient way to share digital content or connect to online resources.
