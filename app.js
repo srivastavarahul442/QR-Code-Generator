@@ -11,6 +11,7 @@ function createQr(text){
 }
 
 btn.addEventListener("click",()=>{
+    console.log("hello")
     let text=qrText.value;
     console.log(text);
     createQr(text);
